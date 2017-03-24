@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Brain Trainer</string>
+    <string name="questions">Questions</string>
+    <string name="score">Score</string>
+    <string name="_30">30</string>
+    <string name="timer">Timer</string>
+    <string name="_0_0">0/0</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="correct">Correct</string>
 </resources>
